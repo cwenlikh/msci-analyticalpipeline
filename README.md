@@ -2,6 +2,8 @@
 
 ### By Cwen K. H. Li, Isabella Whitnell, Joseph C. F. Ng, and Franca Fraternali
 
+In this report, we utilise scNET (https://doi.org/10.1038/s41592-025-02627-0) as a model integrative method to establish an analytical framework for characterising systematic biases in single-cell data reconstruction and cell-type-specific PPI inference. Specifically, we aim to determine whether these biases reflect genuine biological signals or are simply methodological artefacts.
+
 Here, we present a consistent analytical framework across three aspects:\
 (1) **Preservation of biologically coherent cell clusters**, assessed via Uniform Manifold Approximation and Projection (UMAP) dimensionality reduction;\
 (2) **Fidelity of cluster-specific transcriptional signatures**, via differential gene expression (DGE) analysis and pathway enrichment to evaluate the functional coherence of gene co-representation in the reconstructed space; and\
