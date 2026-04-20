@@ -1,4 +1,4 @@
-# Analytical pipeline in report titled: Characterising Systematic Biases in Context-Specific Protein Interaction Networks Inferred from Single-Cell Transcriptomes
+# Analytical pipeline for *Characterising Systematic Biases in Context-Specific Protein Interaction Networks Inferred from Single-Cell Transcriptomes*
 
 Here, we present a consistent analytical framework across three aspects:\
 (1) **Preservation of biologically coherent cell clusters**, assessed via Uniform Manifold Approximation and Projection (UMAP) dimensionality reduction;\
