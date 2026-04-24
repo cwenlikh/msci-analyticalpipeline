@@ -1,7 +1,5 @@
 # Characterising Systematic Biases in Context-Specific Protein Interaction Networks Inferred from Single-Cell Transcriptomes
 
-### By Cwen K. H. Li, Isabella Whitnell, Joseph C. F. Ng, and Franca Fraternali
-
 In this report, we utilise scNET (https://doi.org/10.1038/s41592-025-02627-0) as a model integrative method to establish an analytical framework for characterising systematic biases in single-cell data reconstruction and cell-type-specific PPI inference. Specifically, we aim to determine whether these biases reflect genuine biological signals or are simply methodological artefacts.
 
 Here, we present a consistent analytical framework across three aspects:\
