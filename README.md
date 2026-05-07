@@ -9,4 +9,5 @@ Here, we present a consistent analytical framework across three aspects:\
 
 Together, these analyses determine whether integrating scRNA-seq and PPI information produces network-informed representations that accurately reflect biologically meaningful cellular organisation.
 
-<img width="4800" height="2700" alt="CWEN MSCI #2" src="https://github.com/user-attachments/assets/ad9a142c-e4ad-46e9-8117-4dbdaf5d9fcc" />
+<img width="4800" height="2700" alt="MSci F1" src="https://github.com/user-attachments/assets/6cbfe6d4-d76c-4b2d-9975-b5187aeaee4d" />
+
